@@ -22,6 +22,8 @@ Experience with Agile Scrum, Kanban, and Waterfall methodologies, and I am willi
 * 20+ years of Software Development experience in various programming languages.
 * 10+ years of Java development experience, sound analysis, and troubleshooting skills, engineering, programming, testing, and debugging.
 
+https://www.linkedin.com/in/andrew-nikitin-java/
+
 <!---
 abn-dev-01/abn-dev-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
