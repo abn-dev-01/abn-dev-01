@@ -8,14 +8,14 @@
 - 📫 How to reach me: telegram @abn_dev
 
 # Summary
--✔ Participation in 20+ successful projects. 10+ successfully finished Corporate solutions. 
--✔ I developed maintainable and robust MICRO-SERVICES-based server software solutions applying technologies like Java, Spring-boot, Kafka, cloud solutions, SQL, and NoSQL databases.
--✔ I have experience in DevOps (Docker, Linux, VM, Docker, Kubernetes, Helm, OpenShift, Gitlab CI).
--✔ My DevOps roles included: implementing a CI/CD pipeline using AWS, Docker, Swarm, GitLab CI, Jenkins, Ansible, Terraform, and SonarCube. I implemented monitoring solutions using Prometheus, Grafana, Kibana, and Graylog.
--✔ I am proficient in Java software development of microservices, Enterprise applications, and unit and integration autotests (REST API, GRPC, Back-end, JEE, and console APP).
--✔ I have experience with AWS: AWS SDK, developing Lambda functions, S3 SDK, EC2, Repositories, and Monitoring.
--✔ I am confident with databases such as PostgreSQL, Oracle, H2, and MySQL, MongoDB.
--✔ I designed, implemented, and maintained Java and Kotlin applications based on Spring framework, Spring Boot, Micronaut, Cloud, Liquibase, IBM MQ, Kafka, and AMQ.
+- ✔Participation in 20+ successful projects. 10+ successfully finished Corporate solutions. 
+- ✔I developed maintainable and robust MICRO-SERVICES-based server software solutions applying technologies like Java, Spring-boot, Kafka, cloud solutions, SQL, and NoSQL databases.
+- ✔I have experience in DevOps (Docker, Linux, VM, Docker, Kubernetes, Helm, OpenShift, Gitlab CI).
+- ✔My DevOps roles included: implementing a CI/CD pipeline using AWS, Docker, Swarm, GitLab CI, Jenkins, Ansible, Terraform, and SonarCube. I implemented monitoring solutions using Prometheus, Grafana, Kibana, and Graylog.
+- ✔I am proficient in Java software development of microservices, Enterprise applications, and unit and integration autotests (REST API, GRPC, Back-end, JEE, and console APP).
+- ✔I have experience with AWS: AWS SDK, developing Lambda functions, S3 SDK, EC2, Repositories, and Monitoring.
+- ✔I am confident with databases such as PostgreSQL, Oracle, H2, and MySQL, MongoDB.
+- ✔I designed, implemented, and maintained Java and Kotlin applications based on Spring framework, Spring Boot, Micronaut, Cloud, Liquibase, IBM MQ, Kafka, and AMQ.
 
 # My possibilities
 ✔ I can install from scratch, manage cloud services, Docker containers, OS, Virtual machine, and required server software, install from scratch, and then manage Kubernetes.
