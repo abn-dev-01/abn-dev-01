@@ -18,15 +18,15 @@
 - ✔I designed, implemented, and maintained Java and Kotlin applications based on Spring framework, Spring Boot, Micronaut, Cloud, Liquibase, IBM MQ, Kafka, and AMQ.
 
 # My possibilities
-✔ I can install from scratch, manage cloud services, Docker containers, OS, Virtual machine, and required server software, install from scratch, and then manage Kubernetes.
-✔ I love building and designing things from scratch.
-✔ I have a passion for programming and solving issues.
-✔ In addition, I am passionate about customer success.
-✔ My focus is on results, not activity.
-✔ Learning EVERY DAY is energizing for me.
-✔ I see ambiguity and rapid change as an opportunity – not a threat.
-✔ 20+ years of Software Development experience in various programming languages means experience.
-✔ 10+ years of Java development experience, sound analysis, and troubleshooting skills, engineering, programming, testing, and debugging.
+- ✔ I can install from scratch, manage cloud services, Docker containers, OS, Virtual machine, and required server software, install from scratch, and then manage Kubernetes.
+- ✔ I love building and designing things from scratch.
+- ✔ I have a passion for programming and solving issues.
+- ✔ In addition, I am passionate about customer success.
+- ✔ My focus is on results, not activity.
+- ✔ Learning EVERY DAY is energizing for me.
+- ✔ I see ambiguity and rapid change as an opportunity – not a threat.
+- ✔ 20+ years of Software Development experience in various programming languages means experience.
+- ✔ 10+ years of Java development experience, sound analysis, and troubleshooting skills, engineering, programming, testing, and debugging.
 
 https://www.linkedin.com/in/abn-java/
 
