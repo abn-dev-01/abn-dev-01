@@ -8,7 +8,7 @@
 - 📫 How to reach me: telegram @abn_dev
 
 # Summary
-* I develop maintainable and robust micro-services-based server software solutions applying technologies like Kafka, cloud solutions, SQL, and NoSQL databases.
+✔ I develop maintainable and robust micro-services-based server software solutions applying technologies like Kafka, cloud solutions, SQL, and NoSQL databases.
 Experience with Agile Scrum, Kanban, and Waterfall methodologies, and I am willing to embrace Agile principles in my daily job.
 * I am proficient in Java development of microservices, Enterprise applications, and unit and integration autotests (REST API, GRPC, Back-end, JEE, and console APP).
 * I have experience with AWS: AWS SDK, developing Lambda functions, S3 SDK, EC2, Repositories, and Monitoring.
