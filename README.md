@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a Senior Skilled Full-stack Engineer, DevOps, and Java Expert.
 - 🏆 Besides it, I have experience in TypeScript-based Front-end apps (Angular, React)
-- ⌚ My experience is over 12 years ( 20+ years in the IT sector).
+- ⌚ My Full-stack-Java-DevOps experience is over 12 years ( 20+ years in the IT sector).
 - 
 - 👀 I’m interested in Java8+, Spring-Boot, Kafka, Redis, Elastic, Docker, Kubernetes, Amazon AWS.
 - 🌱 I’m currently learning cutting-edge Java technologies.
