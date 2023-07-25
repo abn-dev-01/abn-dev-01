@@ -5,7 +5,9 @@
 - 👀 I’m interested in Java8+, Spring-Boot, Kafka, Redis, Elastic, Docker, Jenkins, Terraform, Kubernetes, Amazon AWS, GitLab CI.
 - 🌱 I’m currently learning cutting-edge Java technologies and DevOps best practices.
 - 💞️ I want to collaborate on a commercial project (B2B, Full-time, Contract, Part-time).
-- 📫 How to reach me: telegram @abn_dev
+- 📫 How to reach me:
+  - telegram :telephone:	@abn_dev
+  - :mailbox_with_no_mail: [abn-dev-01](mailto@abn-dot-dev-dot-01-at-gmail.com)
 
 # Summary
 - ✔Participation in 20+ successful projects. 10+ successfully finished Corporate solutions. 
