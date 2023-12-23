@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning cutting-edge Java technologies and DevOps best practices.
 - 💞️ I want to collaborate on a commercial project (B2B, Full-time, Contract, Part-time).
 - 📫 How to reach me:
-  - [telegram](https://t.me/abn_java) :telephone:	@abn_dev
+  - [telegram](https://t.me/abn_java) :telephone:	@abn_java
   - :mailbox_with_no_mail: 
 
 # Summary
