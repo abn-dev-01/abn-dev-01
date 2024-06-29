@@ -40,7 +40,16 @@ You can click the Preview link to take a look at your changes.
 # My Courses & Trainings
 - [Reactive programming](https://youtu.be/4zkDm7_g1-Q?si=kA-PMHEAk-Q28uQG)
 - [Microservices from scratch / Semyon Kataev (Avito)](https://youtu.be/eI1QQUrFUZI?si=1yo9754nnhi3f5-z)
+  
+      @sea: Cloud Native Computing Foundation   
+
 - [Event-Driven Architecture in the context of microservices: basic patterns | Nikolay Golov, ManyChat](https://youtu.be/bAhxpqHfP8I?si=8jSf5s8cNUdxv9BA)
+
+      Event Driven: 1. Event Notification
+      Event Driven: 2. Event Carried State Transfer
+      Event Driven: 3. Event Sourcing
+      Event Driven: 4. CQRS (Command Query Request Segregation)
+      
 
 
 
