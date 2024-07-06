@@ -43,14 +43,14 @@ You can click the Preview link to take a look at your changes.
   
       @sea: Cloud Native Computing Foundation   
 
-- [Event-Driven Architecture in the context of microservices: basic patterns | Nikolay Golov, ManyChat](https://youtu.be/bAhxpqHfP8I?si=8jSf5s8cNUdxv9BA)
+- [Event-Driven Architecture in the context of microservices: basic patterns | Nikolay Golov, ManyChat (russian)](https://youtu.be/bAhxpqHfP8I?si=8jSf5s8cNUdxv9BA)
 
       Event Driven: 1. Event Notification
       Event Driven: 2. Event Carried State Transfer
       Event Driven: 3. Event Sourcing
       Event Driven: 4. CQRS (Command Query Request Segregation)
 
-- [Spring Cloud goes Cloud](https://youtu.be/4tSyz_v9w7Q?si=d4VJrV69lhccFM2G)
+- [Spring Cloud goes Cloud (russian)](https://youtu.be/4tSyz_v9w7Q?si=d4VJrV69lhccFM2G)
 
       1. A Prototype of the Examination system.
       2. JDK 17, Spring-boot 3.x, Spring-cloud.
