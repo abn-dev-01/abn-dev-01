@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a Senior skilled Full-stack Java, Kotlin, and DevOps Engineer.
+- 👋 Hi, I’m a Full-stack Java, Kotlin, and DevOps Engineer.
 - 🏆 Besides that, I have experience in TypeScript-based Front-end apps, Angular, and React - I am considering
 - ⌚ My Full-stack-Java-DevOps experience is over 13 years (and 13+ years in the IT sector).
 - 
