@@ -32,4 +32,15 @@
   - [Integration Spring with alternative frameworks](https://youtu.be/GL1txFxswHA?si=wB0Fe8ozSZiX1Lj2&t=4701)
   - [Strategy, Command, Registry](https://youtu.be/GL1txFxswHA?si=9CUmxlwEISCrAnCc&t=6222)
   - [Regsiter bean in Runtime](https://youtu.be/GL1txFxswHA?si=ZslsMQO00r7A5b5m&t=7302)
+  - [New availability](https://youtu.be/GL1txFxswHA?si=W3aXpDrydpWdlCbN&t=8368)
+  - [`@Apect` ~ for business isnt good](https://youtu.be/GL1txFxswHA?si=2dLH-xfaw2TTneyE&t=8611)
+
+ 
+
+
+
+
+
+
+.
 
