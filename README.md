@@ -46,6 +46,7 @@ You can click the Preview link to take a look at your changes.
 - [Event-Driven Architecture in the context of microservices: basic patterns | Nikolay Golov, ManyChat (russian)](https://youtu.be/bAhxpqHfP8I?si=8jSf5s8cNUdxv9BA)
 - [Spring Cloud goes Cloud (russian)](https://youtu.be/4tSyz_v9w7Q?si=d4VJrV69lhccFM2G)
 - [Evgeny Borisov - Spring Patterns for Adults 2020](https://youtu.be/GL1txFxswHA?si=9r5Y8rTjU_0C4HZy)
+- [Microservices with Spring Boot & Spring Cloud (Alexander Barmin)](https://youtu.be/2yAbbsuNBPc?si=4Qru2dWY5xkRM7by)
 
 
 
