@@ -47,6 +47,7 @@ You can click the Preview link to take a look at your changes.
 - [Spring Cloud goes Cloud (russian)](https://youtu.be/4tSyz_v9w7Q?si=d4VJrV69lhccFM2G) YouTube
 - [Evgeny Borisov - Spring Patterns for Adults 2020](https://youtu.be/GL1txFxswHA?si=9r5Y8rTjU_0C4HZy) YouTube
 - [Microservices with Spring Boot & Spring Cloud (Alexander Barmin)](https://youtu.be/2yAbbsuNBPc?si=4Qru2dWY5xkRM7by) YouTube
+- [Alexey Nesterov - Spring Cloud in the era of Kubernetes](https://youtu.be/vUo3cTE3Y0g?si=OZFSWtfRlyXTf2hh)
 
 
 
