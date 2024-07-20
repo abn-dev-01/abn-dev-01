@@ -1,6 +1,6 @@
 # Courses & Trainings
 
-## Reactive programming]
+## Reactive programming
  - [youtube[(https://youtu.be/4zkDm7_g1-Q?si=kA-PMHEAk-Q28uQG)
 
 ## Microservices from scratch / Semyon Kataev (Avito)
@@ -19,7 +19,7 @@
   1. A Prototype of the Examination system.
   2. JDK 17, Spring-boot 3.x, Spring-cloud.
 
-## Evgeny Borisov - Spring Patterns for Adults 2020]
+## Evgeny Borisov - Spring Patterns for Adults 2020
 - [youtube](https://youtu.be/GL1txFxswHA?si=9r5Y8rTjU_0C4HZy)
   - [`@Singleton` is Anti-Pattern](https://youtu.be/GL1txFxswHA?si=Xs3P5fH5v4WgCNEA&t=543)
   - [`@Lazy`](https://youtu.be/GL1txFxswHA?si=Z486QzUF4dhFfK9Z&t=1545)
