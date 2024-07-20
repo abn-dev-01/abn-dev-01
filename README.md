@@ -56,6 +56,7 @@ You can click the Preview link to take a look at your changes.
       2. JDK 17, Spring-boot 3.x, Spring-cloud.
 
 - [Evgeny Borisov - Spring Patterns for Adults 2020](https://youtu.be/GL1txFxswHA?si=9r5Y8rTjU_0C4HZy)
+  - [Create a Spring-Starter:1h05m](https://youtu.be/GL1txFxswHA?si=S-02NWZRT15BZmfk&t=4124) 
 
 
 
