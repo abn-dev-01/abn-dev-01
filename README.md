@@ -41,12 +41,12 @@ You can click the Preview link to take a look at your changes.
 
   [See extended list of courses & trainings with comments here](https://github.com/abn-dev-01/abn-dev-01/blob/main/abn-cv-cources-&-trainings.md)
   
-- [Reactive programming](https://youtu.be/4zkDm7_g1-Q?si=kA-PMHEAk-Q28uQG)
-- [Microservices from scratch / Semyon Kataev (Avito)](https://youtu.be/eI1QQUrFUZI?si=1yo9754nnhi3f5-z)
-- [Event-Driven Architecture in the context of microservices: basic patterns | Nikolay Golov, ManyChat (russian)](https://youtu.be/bAhxpqHfP8I?si=8jSf5s8cNUdxv9BA)
-- [Spring Cloud goes Cloud (russian)](https://youtu.be/4tSyz_v9w7Q?si=d4VJrV69lhccFM2G)
-- [Evgeny Borisov - Spring Patterns for Adults 2020](https://youtu.be/GL1txFxswHA?si=9r5Y8rTjU_0C4HZy)
-- [Microservices with Spring Boot & Spring Cloud (Alexander Barmin)](https://youtu.be/2yAbbsuNBPc?si=4Qru2dWY5xkRM7by)
+- [Reactive programming](https://youtu.be/4zkDm7_g1-Q?si=kA-PMHEAk-Q28uQG) YouTube
+- [Microservices from scratch / Semyon Kataev (Avito)](https://youtu.be/eI1QQUrFUZI?si=1yo9754nnhi3f5-z) YouTube
+- [Event-Driven Architecture in the context of microservices: basic patterns | Nikolay Golov, ManyChat (russian)](https://youtu.be/bAhxpqHfP8I?si=8jSf5s8cNUdxv9BA) YouTube
+- [Spring Cloud goes Cloud (russian)](https://youtu.be/4tSyz_v9w7Q?si=d4VJrV69lhccFM2G) YouTube
+- [Evgeny Borisov - Spring Patterns for Adults 2020](https://youtu.be/GL1txFxswHA?si=9r5Y8rTjU_0C4HZy) YouTube
+- [Microservices with Spring Boot & Spring Cloud (Alexander Barmin)](https://youtu.be/2yAbbsuNBPc?si=4Qru2dWY5xkRM7by) YouTube
 
 
 
