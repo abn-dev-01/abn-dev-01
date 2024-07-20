@@ -31,4 +31,5 @@
   - [Create a `Spring-Starter` :1h05m](https://youtu.be/GL1txFxswHA?si=S-02NWZRT15BZmfk&t=4124)
   - [Integration Spring with alternative frameworks](https://youtu.be/GL1txFxswHA?si=wB0Fe8ozSZiX1Lj2&t=4701)
   - [Strategy, Command, Registry](https://youtu.be/GL1txFxswHA?si=9CUmxlwEISCrAnCc&t=6222)
+  - [Regsiter bean in Runtime](https://youtu.be/GL1txFxswHA?si=ZslsMQO00r7A5b5m&t=7302)
 
