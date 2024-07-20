@@ -56,7 +56,15 @@ You can click the Preview link to take a look at your changes.
       2. JDK 17, Spring-boot 3.x, Spring-cloud.
 
 - [Evgeny Borisov - Spring Patterns for Adults 2020](https://youtu.be/GL1txFxswHA?si=9r5Y8rTjU_0C4HZy)
-  - [Create a Spring-Starter:1h05m](https://youtu.be/GL1txFxswHA?si=S-02NWZRT15BZmfk&t=4124) 
+  - [@Singleton is Anti-Pattern](https://youtu.be/GL1txFxswHA?si=Xs3P5fH5v4WgCNEA&t=543)
+  - [@Lazy](https://youtu.be/GL1txFxswHA?si=Z486QzUF4dhFfK9Z&t=1545)
+  - [No TESTS Any more!](https://youtu.be/GL1txFxswHA?si=paYVySUJaBOzqpKR&t=2076)
+  - [`field injection` to be or not to be](https://youtu.be/GL1txFxswHA?si=HLiHUznJg3eUZvj6&t=2645)
+  - [@Primary usages](https://youtu.be/GL1txFxswHA?si=mD-E049ETCMCyzkv&t=2942)
+  - [start Treatment System here...](https://youtu.be/GL1txFxswHA?si=gcTjlNOjKT_fhFaX&t=3286)
+  - [`Chain of responsibility` pattern](https://youtu.be/GL1txFxswHA?si=lNUV7TBUEsc_BnAw&t=3630)
+  - [Create a Spring-Starter:1h05m](https://youtu.be/GL1txFxswHA?si=S-02NWZRT15BZmfk&t=4124)
+  - 
 
 
 
