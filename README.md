@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.
   - [start `Treatment System` here...](https://youtu.be/GL1txFxswHA?si=gcTjlNOjKT_fhFaX&t=3286)
   - [`Chain of responsibility` pattern](https://youtu.be/GL1txFxswHA?si=lNUV7TBUEsc_BnAw&t=3630)
   - [Create a `Spring-Starter` :1h05m](https://youtu.be/GL1txFxswHA?si=S-02NWZRT15BZmfk&t=4124)
-  - 
+  - [Integration Spring with alternative frameworks](https://youtu.be/GL1txFxswHA?si=wB0Fe8ozSZiX1Lj2&t=4701)
 
 
 
