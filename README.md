@@ -52,3 +52,10 @@ You can click the Preview link to take a look at your changes.
 - [Translating Spring/Kotlin service to NIO and coroutines - Nikolay Gamov, Tinkoff](https://youtu.be/EPQEKwaBaz0?si=5mtaqE8PqRpTdCGT) | YouTube
 - [Node.js Full Course for Beginners | Complete All-in-One Tutorial](https://youtu.be/f2EqECiTBL8?si=FnQVXivRWq_9P0qX) | YouTube 7 Hours
 
+## DevOps
+- [Complete Kubernetes Tutorial for Beginners | TechWorld with Nana](https://www.youtube.com/watch?v=VnvRFRk_51k&list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC) | YouTube
+- [Complete Terraform Course - Beginner to Advanced](https://www.udemy.com/certificate/UC-f0635d0a-73ed-41a6-bdeb-43963a3c1b00/)
+
+
+
+
