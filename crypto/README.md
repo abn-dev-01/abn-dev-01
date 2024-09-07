@@ -1,4 +1,4 @@
 # CRYPTO by ABN
 
-## [Terms](./terms-crypto.md}
+## [Terms](./terms-crypto.md)
 
