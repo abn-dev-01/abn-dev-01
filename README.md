@@ -12,6 +12,8 @@
 # My recent projects:
 - Python: [casino-game](https://github.com/abn-dev-01/casino-game)
 - K8s Kubernetes: [example of installation minikube on WSL-windows](https://github.com/abn-dev-01/DevOps23/tree/develop/Kubernetes/wsl)
+- ...
+- [my repositories](https://github.com/abn-dev-01?tab=repositories)
 
 # Summary
 - ✔Participation in 20+ successful projects. 10+ successfully finished Corporate solutions. 
