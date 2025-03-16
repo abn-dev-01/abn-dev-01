@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a Full-stack Java, Kotlin, and DevOps Engineer.
+- 👋 Hi, I’m a Full-stack Engineer with DevOps, Python, Java, and Kotlin skills.
 - 🏆 Besides that, I have experience in TypeScript-based Front-end apps, Angular, and React - I am considering
 - ⌚ My Full-stack-Java-DevOps experience is over 13 years (and 13+ years in the IT sector).
 - 
@@ -7,7 +7,11 @@
 - 💞️ I want to collaborate on a commercial project (B2B, Full-time, Contract, Part-time).
 - 📫 How to reach me:
   - [telegram](https://t.me/abn_java) :telephone:	@abn_java
-  - :mailbox_with_no_mail: 
+  - :mailbox_with_no_mail:
+ 
+# My recent projects:
+- Python: [casino-game](https://github.com/abn-dev-01/casino-game)
+- K8s Kubernetes: [example of installation minikube on WSL-windows](https://github.com/abn-dev-01/DevOps23/tree/develop/Kubernetes/wsl)
 
 # Summary
 - ✔Participation in 20+ successful projects. 10+ successfully finished Corporate solutions. 
