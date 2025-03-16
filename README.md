@@ -2,7 +2,7 @@
 - 🏆 Besides that, I have experience in TypeScript-based Front-end apps, Angular, and React - I am considering
 - ⌚ My Full-stack-Java-DevOps experience is over 13 years (and 13+ years in the IT sector).
 - 
-👀 I’m interested in Kotlin, Java 20+/17+/11+/8+, Spring-Boot, Kafka, Redis, Elastic, Docker, Jenkins, Terraform, Kubernetes, Amazon AWS, and GitLab CI.
+👀 I’m interested in Python, Go, Kotlin, Java 20+/17+/11+/8+, Spring-Boot, Kafka, Redis, Elastic, Docker, Jenkins, Terraform, Kubernetes, Amazon AWS, and GitLab CI.
 - 🌱 I’ve been learning cutting-edge Kotlin & Java technologies and DevOps best practices.
 - 💞️ I want to collaborate on a commercial project (B2B, Full-time, Contract, Part-time).
 - 📫 How to reach me:
@@ -12,6 +12,8 @@
 # My recent projects:
 - Python: [casino-game](https://github.com/abn-dev-01/casino-game)
 - K8s Kubernetes: [example of installation minikube on WSL-windows](https://github.com/abn-dev-01/DevOps23/tree/develop/Kubernetes/wsl)
+- Linux bash: [a package of Linux bash aliases](https://github.com/abn-dev-01/devops_bash_aliases)
+- Linux Debian automation: [Ansible playbook of installation start packages for Linux Debian server/workstation](https://github.com/abn-dev-01/devops-ansible/tree/develop/debian)
 - ...
 - [my repositories](https://github.com/abn-dev-01?tab=repositories)
 
