@@ -15,7 +15,7 @@
 - Linux bash: [a package of Linux bash aliases](https://github.com/abn-dev-01/devops_bash_aliases)
 - Linux Debian automation: [Ansible playbook of installation start packages for Linux Debian server/workstation](https://github.com/abn-dev-01/devops-ansible/tree/develop/debian)
 - ...
-- [my repositories](https://github.com/abn-dev-01?tab=repositories)
+- [Look into all my repositories](https://github.com/abn-dev-01?tab=repositories)
 
 # Summary
 - ✔Participation in 20+ successful projects. 10+ successfully finished Corporate solutions. 
