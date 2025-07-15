@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a Full-stack Engineer with DevOps, Python, Java, and Kotlin skills.
 - 🏆 Besides that, I have experience in TypeScript-based Front-end apps, Angular, and React - I am considering
-- ⌚ My Full-stack-Java-DevOps experience is over 13 years (and 13+ years in the IT sector).
+- ⌚ My Full-stack-Java-DevOps experience is over 10 years.
 - 
 👀 I’m interested in Python, Go, Kotlin, Java 20+/17+/11+/8+, Spring-Boot, Kafka, Redis, Elastic, Docker, Jenkins, Terraform, Kubernetes, Amazon AWS, and GitLab CI.
 - 🌱 I’ve been learning cutting-edge Kotlin & Java technologies and DevOps best practices.
@@ -10,10 +10,13 @@
   - :mailbox_with_no_mail:
  
 # My recent projects:
+- Java/Spring-Boot/Financial: [financy-io](https://github.com/abn-dev-01/financy-io)
+- DevOps/Linux bash: [a package of Linux bash aliases](https://github.com/abn-dev-01/devops_bash_aliases)
 - Python: [casino-game](https://github.com/abn-dev-01/casino-game)
 - K8s Kubernetes: [example of installation minikube on WSL-windows](https://github.com/abn-dev-01/DevOps23/tree/develop/Kubernetes/wsl)
-- Linux bash: [a package of Linux bash aliases](https://github.com/abn-dev-01/devops_bash_aliases)
 - Linux Debian automation: [Ansible playbook of installation start packages for Linux Debian server/workstation](https://github.com/abn-dev-01/devops-ansible/tree/develop/debian)
+- Java [LeetCode tests](https://github.com/abn-dev-01/abn-leetcode-java)
+- DevOps [sonarqube-slack-notify](https://github.com/abn-dev-01/sonarqube-slack-notify)
 - ...
 - [Look into all my repositories](https://github.com/abn-dev-01?tab=repositories)
 
