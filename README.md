@@ -6,8 +6,8 @@
 - 🌱 I’ve been learning cutting-edge Kotlin & Java technologies and DevOps best practices.
 - 💞️ I want to collaborate on a commercial project (B2B, Full-time, Contract, Part-time).
 - 📫 How to reach me:
-  - [telegram](https://t.me/abn_java) :telephone:	@abn_java
-  - :mailbox_with_no_mail:
+  - :telephone:	Telegram @[anikin_dev](https://t.me/anikin_dev)
+  - :mailbox_with_no_mail: cl.abn.25 _at_ gmail-dot-com
  
 # My recent projects:
 - Java/Spring-Boot/Financial: [financy-io](https://github.com/abn-dev-01/financy-io)
