@@ -2,7 +2,7 @@
 - 🏆 Besides that, I have experience in TypeScript-based Front-end apps, Angular, and React - I am considering
 - ⌚ My Full-stack-Java-DevOps experience is over 10 years.
 - 
-👀 I’m interested in Python, Go, Kotlin, Java 20+/17+/11+/8+, Spring-Boot, Kafka, Redis, Elastic, Docker, Jenkins, Terraform, Kubernetes, Amazon AWS, and GitLab CI.
+👀 I’m interested in Docker, Jenkins, Terraform, Kubernetes, Amazon AWS, GCP, GitLab CI, Python, Go, Kotlin, Java 20+/17+/11+/8+, Spring-Boot, Kafka, Redis, Elastic, Kibanam Grapfana.
 - 🌱 I’ve been learning cutting-edge Kotlin & Java technologies and DevOps best practices.
 - 💞️ I want to collaborate on a commercial project (B2B, Full-time, Contract, Part-time).
 - 📫 How to reach me:
