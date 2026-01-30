@@ -39,8 +39,8 @@ It contains **business logic**, **use cases**, and **technology‑agnostic abstr
 It must not depend on frameworks, AWS, Spring annotations, or any external technology.
 
 ### Why this matters
-If CAT decides to replace SQS with Kafka, or Kafka with Azure Queue, **only the infrastructure layer changes**.  
-The application layer remains untouched.
+If Customer decides to replace SQS with Kafka, or Kafka with Azure Queue, **only the infrastructure layer changes**.  
+The application layer remains untouched and not binded with the infrastructure layer.
 
 ### Responsibilities
 - Business logic classes  
