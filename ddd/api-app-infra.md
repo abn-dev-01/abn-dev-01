@@ -130,7 +130,7 @@ Here’s the clean, practical distinction you’re looking for — the one that 
 
 ---
 
-# 🧩 **DTO vs Model — the real difference**
+#  **DTO vs Model — the real difference**
 
 ## **1. DTO (Data Transfer Object)**  
 A DTO exists **only to transfer data across layers or boundaries**.
@@ -181,7 +181,7 @@ Models are **how your application thinks**.
 
 ---
 
-# 🧭 **The simplest way to remember**
+#  **The simplest way to remember**
 
 | Aspect | DTO | Model |
 |-------|-----|--------|
@@ -193,7 +193,7 @@ Models are **how your application thinks**.
 
 ---
 
-# 🧱 **In your architecture**
+#  **In your architecture**
 
 ### **API DTO**  
 `api/dto/*`  
@@ -209,7 +209,7 @@ Used by JPA/Hibernate.
 
 ---
 
-# 🧨 Why this distinction matters  
+#  Why this distinction matters  
 Because mixing DTOs and Models leads to:
 
 - Leaky abstractions  
