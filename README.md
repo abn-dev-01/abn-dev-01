@@ -1,7 +1,15 @@
-- 👋 Hi, I’m a Full-stack Engineer with DevOps, Python, Java, and Kotlin skills.
+- 👋 Hi, I’m a Full-stack Engineer with skills of DevOps, Java, Kotlin and some other progamming languages.
 - 🏆 Besides that, I have experience in TypeScript-based Front-end apps, Angular, and React - I am considering
 - ⌚ My Full-stack-Java-DevOps experience is over 10 years.
-- 
+
+## Achievements
+- Started micro-credit system (Kotlin) Financial Field.
+- Architecture/Developing/Deploing a middleware Backend Solution for Enterprise.
+- Supported Bank service Kotlin and Java.
+- Implemented Bank Integration services.
+- Improved, expanding Retail softwre solution Java, Wildfly, Gupta.
+- Started a solution for big data. Java. Python.
+  
 👀 I’m interested in Docker, Jenkins, Terraform, Kubernetes, Amazon AWS, GCP, GitLab CI, Python, Go, Kotlin, Java 20+/17+/11+/8+, Spring-Boot, Kafka, Redis, Elastic, Kibana, and Grafana.
 - 🌱 I’ve been learning cutting-edge Kotlin & Java technologies and DevOps best practices.
 - 💞️ I want to collaborate on a commercial project (B2B, Full-time, Contract, Part-time).
