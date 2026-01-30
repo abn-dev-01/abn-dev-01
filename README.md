@@ -9,6 +9,7 @@
 - Implemented Bank Integration services.
 - Improved, expanding Retail softwre solution Java, Wildfly, Gupta.
 - Started a solution for big data. Java. Python.
+- Created and deployed a module for Health care Solution. Java,AWS,Import,Export Excel. 
   
 👀 I’m interested in Docker, Jenkins, Terraform, Kubernetes, Amazon AWS, GCP, GitLab CI, Python, Go, Kotlin, Java 20+/17+/11+/8+, Spring-Boot, Kafka, Redis, Elastic, Kibana, and Grafana.
 - 🌱 I’ve been learning cutting-edge Kotlin & Java technologies and DevOps best practices.
