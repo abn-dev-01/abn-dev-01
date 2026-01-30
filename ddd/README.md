@@ -18,4 +18,4 @@ modular, and technology‑agnostic.
 
 ---
 
-1. [3 Layers: Api, App, Infra.](/ddd/api-app-infra.md)
+1. [Layers: Api, App, Infra.](/ddd/api-app-infra.md)
