@@ -1,6 +1,10 @@
 
 - [Layers](./api-app-infra.md#layers)
+  - [Api Layer](./api-app-infra.md#api-layer)
+  - [Application Layer](./api-app-infra.md#application-layer)
+  - [Infrastructure Layer](./api-app-infra.md#infrastructure-layer)
 - [DTO vs Model](./api-app-infra.md#dto-vs-model-)
+- [Application should have any mappers ?](./api-app-infra.md#application-should-have-any-mappers-)
 
 ---
 
@@ -231,3 +235,60 @@ Keeping them separate gives you:
 
 ---
 
+
+# Application should have any mappers ?
+
+Short answer: **yes, but only very specific ones** — and definitely *not* the mappers that touch API DTOs or Entities.
+
+---
+
+# Application layer *can* have mappers — but only **core mappers**
+
+### What belongs in application:
+Mappers that convert **between core models inside the application layer**.
+
+Examples:
+- `OrderModel` ↔ `OrderDto`
+- `UserModel` ↔ `UserSummary`
+- `ValueObject` ↔ `CoreDto`
+
+These are **pure**, framework‑free transformations that help the core express business logic cleanly.
+
+### Why they belong here:
+- They don’t depend on API DTOs  
+- They don’t depend on Entities  
+- They don’t depend on frameworks  
+- They are part of the business logic’s internal structure  
+
+These mappers help keep the core expressive and decoupled.
+
+---
+
+# What does *not* belong in application:
+### 1. **API DTO ↔ Core DTO mappers**
+These belong in `api/mapper`.
+
+Reason:  
+API DTOs are transport‑specific. The application layer must not know about them.
+
+### 2. **Entity ↔ Core DTO mappers**
+These belong in `infrastructure/persistence/mapper`.
+
+Reason:  
+Entities are persistence‑specific. The application layer must not know about them.
+
+---
+
+# Clean rule of thumb
+
+| Mapper type | Layer |
+|-------------|--------|
+| API DTO ↔ Core DTO | api |
+| Entity ↔ Core DTO | infrastructure |
+| Core Model ↔ Core DTO | application |
+
+If the mapper touches **anything external** (API, DB, AWS, messaging), it does *not* belong in application.
+
+If the mapper is **pure business transformation**, it belongs in application.
+
+---
