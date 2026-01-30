@@ -1,4 +1,7 @@
 
+- [Layers](./api-app-infra.md#layers)
+- [DTO vs Model](./api-app-infra.md#dto-vs-model-)
+
 ---
 
 # Layers
