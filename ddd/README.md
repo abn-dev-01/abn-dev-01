@@ -1,4 +1,3 @@
----
 
 # Introduction to Domain‑Driven Design (DDD)
 
@@ -18,3 +17,5 @@ It outlines how API endpoints, core logic, and infrastructure components should 
 modular, and technology‑agnostic.
 
 ---
+
+1. [3 Layers: Api, App, Infra.](/ddd/api-app-infra.md)
