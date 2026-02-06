@@ -5,7 +5,7 @@
   - [Infrastructure Layer](./api-app-infra.md#infrastructure-layer)
 - [DTO vs Model](./api-app-infra.md#dto-vs-model-)
 - [Application should have any mappers ?](./api-app-infra.md#application-should-have-any-mappers-)
-- [High‑Level Relationship](./api-app-infra.md#high‑level-relationship)
+- [High‑Level Relationship](./api-app-infra.md#-highlevel-relationship)
 
 ---
 
