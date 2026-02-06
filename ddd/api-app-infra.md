@@ -5,6 +5,7 @@
   - [Infrastructure Layer](./api-app-infra.md#infrastructure-layer)
 - [DTO vs Model](./api-app-infra.md#dto-vs-model-)
 - [Application should have any mappers ?](./api-app-infra.md#application-should-have-any-mappers-)
+- [High‑Level Relationship](./high‑level-relationship)
 
 ---
 
@@ -290,5 +291,123 @@ Entities are persistence‑specific. The application layer must not know about t
 If the mapper touches **anything external** (API, DB, AWS, messaging), it does *not* belong in application.
 
 If the mapper is **pure business transformation**, it belongs in application.
+
+---
+
+Let me give you the **clearest, most correct explanation** of the relationships between **api → application → infrastructure** in *your* architecture, using your naming rules and your mental model.
+
+I’ll keep it sharp, structured, and aligned with clean architecture principles.
+
+---
+
+# 🟦 High‑Level Relationship
+
+Think of the three layers like this:
+
+| Layer | Depends On | Purpose |
+|------|------------|---------|
+| **api** | → application | Expose REST endpoints, map HTTP ↔ domain |
+| **application** | → nothing (only domain + ports) | Business logic, use cases, ports (interfaces) |
+| **infrastructure** | → application | Implement ports using real technologies (S3, DB, SQS) |
+
+**Dependency direction always points inward → toward application.**
+
+---
+
+# 🟩 How They Interact (Flow)
+
+### **1. API layer receives a request**
+- Controller gets HTTP request
+- Converts request data into simple types or DTOs
+- Calls a service in the application layer
+
+### **2. Application layer executes business logic**
+- Contains use cases (e.g., `TemplateService`)
+- Calls outbound ports (interfaces starting with `I`)
+- Has no idea what S3, AWS, HTTP, or Spring is
+
+### **3. Infrastructure layer fulfills the port**
+- Implements the port (e.g., `S3TemplateStorage implements ITemplateStorage`)
+- Talks to AWS S3, DB, filesystem, etc.
+- Returns domain objects back to application
+
+### **4. Application returns result to API**
+- API maps domain → response DTO
+- Sends HTTP response
+
+---
+
+# 🟧 Visual Diagram (Your Architecture)
+
+```
+          ┌──────────────────────────────┐
+          │            api               │
+          │  - Controllers               │
+          │  - Request/Response DTOs     │
+          └───────────────▲──────────────┘
+                          │ calls
+                          │
+          ┌───────────────┴──────────────┐
+          │         application           │
+          │  - Services (use cases)       │
+          │  - Ports (I*)                 │
+          │  - Domain models              │
+          └───────────────▲──────────────┘
+                          │ implemented by
+                          │
+          ┌───────────────┴──────────────┐
+          │        infrastructure         │
+          │  - S3TemplateStorage          │
+          │  - DB repositories            │
+          │  - Queue clients              │
+          └──────────────────────────────┘
+```
+
+---
+
+# 🟨 Key Rules (Your Architecture Style)
+
+### **1. API must not depend on infrastructure**
+- API → application  
+- API ✖ infrastructure
+
+### **2. Application must not depend on API or infrastructure**
+- Application → no frameworks  
+- Application → only ports + domain
+
+### **3. Infrastructure depends on application**
+- Infrastructure → application  
+- Infrastructure implements ports
+
+### **4. All outbound ports start with `I`**
+Examples:
+- `ITemplateStorage`
+- `IBatchQueueManager`
+- `IUserRepository`
+
+---
+
+# 🟪 Example of the Relationship in Action
+
+### API layer:
+```
+TemplateController → TemplateService
+```
+
+### Application layer:
+```
+TemplateService → ITemplateStorage
+```
+
+### Infrastructure layer:
+```
+S3TemplateStorage implements ITemplateStorage
+```
+
+---
+
+# 🟫 In One Sentence
+
+**API calls application, application calls interfaces, infrastructure implements those interfaces.**
 
 ---
